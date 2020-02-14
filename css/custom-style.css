@@ -1,0 +1,21 @@
+.hbanner {
+  background-image: url("../img/bg5.jpg");
+  background-size: cover;
+  height: 500px;
+  border-bottom: solid 4px #ff6600;
+}
+#topAdd {
+  background-color: #ebebeb;
+  border-top: solid 4px #ff6600;
+  padding: 8px 20px 8px;
+  position: relative;
+}
+.textColorwt {
+  color: floralwhite;
+}
+.navbar-light .navbar-nav .nav-link {
+  color: fff;
+}
+.tpd {
+  padding-top: 40px;
+}
